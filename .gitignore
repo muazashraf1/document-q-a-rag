@@ -1,0 +1,33 @@
+# Python
+_pycache_/
+*.pyc
+*.pyo
+venv/
+db.sqlite3
+
+# Node
+node_modules/
+build/
+dist/
+
+# Environment
+.env
+.env.*
+*.env
+!.env.example
+
+# Media uploads
+backend/media/
+
+# Log files
+backend/logs/*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
+PROJECT_DOCUMENTATION.md
+TECH_STACK_DETAILS.md
